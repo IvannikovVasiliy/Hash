@@ -1,0 +1,15 @@
+D:\Atos\ООП\Hometask_Hash\List_Hash\List_Hash\bin\Debug\net6.0\List_Hash.exe
+D:\Atos\ООП\Hometask_Hash\List_Hash\List_Hash\bin\Debug\net6.0\List_Hash.deps.json
+D:\Atos\ООП\Hometask_Hash\List_Hash\List_Hash\bin\Debug\net6.0\List_Hash.runtimeconfig.json
+D:\Atos\ООП\Hometask_Hash\List_Hash\List_Hash\bin\Debug\net6.0\List_Hash.dll
+D:\Atos\ООП\Hometask_Hash\List_Hash\List_Hash\bin\Debug\net6.0\ref\List_Hash.dll
+D:\Atos\ООП\Hometask_Hash\List_Hash\List_Hash\bin\Debug\net6.0\List_Hash.pdb
+D:\Atos\ООП\Hometask_Hash\List_Hash\List_Hash\obj\Debug\net6.0\List_Hash.GeneratedMSBuildEditorConfig.editorconfig
+D:\Atos\ООП\Hometask_Hash\List_Hash\List_Hash\obj\Debug\net6.0\List_Hash.AssemblyInfoInputs.cache
+D:\Atos\ООП\Hometask_Hash\List_Hash\List_Hash\obj\Debug\net6.0\List_Hash.AssemblyInfo.cs
+D:\Atos\ООП\Hometask_Hash\List_Hash\List_Hash\obj\Debug\net6.0\List_Hash.csproj.CoreCompileInputs.cache
+D:\Atos\ООП\Hometask_Hash\List_Hash\List_Hash\obj\Debug\net6.0\List_Hash.dll
+D:\Atos\ООП\Hometask_Hash\List_Hash\List_Hash\obj\Debug\net6.0\ref\List_Hash.dll
+D:\Atos\ООП\Hometask_Hash\List_Hash\List_Hash\obj\Debug\net6.0\List_Hash.pdb
+D:\Atos\ООП\Hometask_Hash\List_Hash\List_Hash\obj\Debug\net6.0\List_Hash.genruntimeconfig.cache
+D:\Atos\ООП\Hometask_Hash\List_Hash\List_Hash\obj\Debug\net6.0\List_Hash.csproj.AssemblyReference.cache
